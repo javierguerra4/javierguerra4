@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Javier
 #### I am a software developer
-I am a software developer based out of San Antonio, TX that is hungry to learn. I enjoy coding and seem to catch myself thinking about code 90% of the day. I want to continue sharpening my skills and help those that may be starting their journey into development.
+I am a software developer based out of San Antonio, TX that is hungry to learn. I enjoy coding and catch myself thinking about code throughout the day. I want to continue sharpening my skills and help those that may be starting their journey into development.
 
 Skills: HTML/ CSS / JS / JQUERY/ JAVA/ SPRING BOOT
 
