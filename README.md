@@ -5,7 +5,7 @@ I am a software developer based out of San Antonio, TX that is hungry to learn. 
 Skills: HTML/ CSS /BOOTSTRAP/ JS / JQUERY/ JAVA/ SPRING BOOT
 
 - 🔭 I finished my capstone project. Check out BookAlert!
-- 🌱 I’m currently learning the spring boot framework 
+- 🌱 I’m currently creating a personal portfolio website! 
 - 👯 I’m looking to collaborate on Java and Javascript 
 - 💬 Ask me about my projects 
 - 📫 How to reach me: javier.j.guerra4@gmail.com 
