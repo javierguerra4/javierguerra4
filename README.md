@@ -4,7 +4,7 @@ I am a software developer based out of San Antonio, TX that is hungry to learn. 
 
 Skills: HTML/ CSS /BOOTSTRAP/ JS / JQUERY/ JAVA/ SPRING BOOT
 
-- 🔭 I finished my capstone project. Check out BookAlert!
+- 🔭 I finished my capstone project. Check out BookAlert! [Link to BookAlert] (https://bookalert.site)
 - 🌱 I’m currently creating a personal portfolio website! 
 - 👯 I’m looking to collaborate on Java and Javascript 
 - 💬 Ask me about my projects 
